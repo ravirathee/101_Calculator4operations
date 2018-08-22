@@ -1,4 +1,4 @@
-package com.ravirathee.a101_calculator4operaitons;
+package com.ravirathee.a101_calculator4operations;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
